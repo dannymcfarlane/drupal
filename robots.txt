@@ -23,8 +23,6 @@ Allow: /core/*.jpeg
 Allow: /core/*.png
 Allow: /core/*.svg
 Allow: /profiles/*.css$
-Allow: /profiles/*.css?
-Allow: /profiles/*.js$
 Allow: /profiles/*.js?
 Allow: /profiles/*.gif
 Allow: /profiles/*.jpg
